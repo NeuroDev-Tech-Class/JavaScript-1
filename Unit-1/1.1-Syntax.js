@@ -17,20 +17,11 @@ In this course, comments are used to help explain coding concepts
 /*
 JavaScript is used for Web Development. 
 When you go online and use a website, odds are that JavaScript is being used to make everything possible.
-
 This first course will get you familiar with Javascript and how syntax works,
 then we will use it to make webpages and other cool stuff!
 */
 
 console.log("Hello World");
-/* This is how we print in Javascript. Since Javascript interacts with webpages,
-to print you always send it to the console (weppage)
-
-In the terminal, type node
-
-You can now execute single lines of Javascript in the terminal
-Either type, or copy and paste the above line into the terminal and see what happens
-*/
 
 
 
