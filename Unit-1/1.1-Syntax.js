@@ -39,9 +39,3 @@ Notice the semicolon (;) at the end of each line
 In Javascript, we put semicolons at the end of expressions, variable assignment, and return values
 You'll see more of how they are used later
 */
-
-
-
-
-
-
