@@ -7,7 +7,7 @@ Similar to Python, Javascript executes instruction line by line from top to bott
 Unlike Python, indentation at the beginning of each line is for readability only. 
 However, it is standard practice to use indentation.
 
-// or /*  <--- this symbols are used to indicate a line of code is a comment
+// or /*  <--- these symbols are used to indicate a line of code is a comment
 Comments are ignored when code is executed
 Coders use comments to help explain what section of code do, this helps with code clarity
 
@@ -32,8 +32,13 @@ You can now execute single lines of Javascript in the terminal
 Either type, or copy and paste the above line into the terminal and see what happens
 */
 
+console.log(2+4);
+/* We can also put an expression into a .log and it will execute the expression
 
-
+Notice the semicolon (;) at the end of each line
+In Javascript, we put semicolons at the end of expressions, variable assignment, and return values
+You'll see more of how they are used later
+*/
 
 
 
