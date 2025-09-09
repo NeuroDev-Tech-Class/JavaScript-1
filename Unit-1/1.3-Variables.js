@@ -24,3 +24,29 @@ console.log(num);
 // This will print 3 to the console
 
 // You can also set varaibles equal to an expression
+let num2 = 42 + 27;
+
+
+/* You can perform several types of operations with numbers in JavaScript:
++ -      <--- Addition / Subtraction
+* /      <--- Multiplication and Division
+**       <--- Exponents
+%        <--- Modulo Divison (Divides two number and returns the remainder)
+*/
+
+let addSub = num + num2 - 23;
+let multDiv = num * num2 / 2;
+let exp = num ** 3;
+let mod = num2 % num1;
+
+console.log (addSub);
+console.log (multDiv);
+console.log (exp);
+console.log (mod);
+
+/* Remember that operators are exectued in this order, not necessarily from left to right:
+()
+**
+* /
++-
+*/
