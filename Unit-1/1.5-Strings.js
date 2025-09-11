@@ -27,6 +27,9 @@ console.log(str4.slice(0, 10));  // Prints "JavaScript" (characters 0-9)
 console.log(str4.slice(11, 13));  // Prints "is" (characters 11-12)
 console.log(str4.slice(14, 21));  // Prints "awesome" (characters 14-20)
 
+// You can also use a single number in square brackets to get one character
+console.log(str4[0]); // Prints "J"
+
 
 // Formatting - insert values into a string
 // There are several ways to format strings.
