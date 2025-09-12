@@ -14,8 +14,8 @@ console.log(x <= y)  // Less than or equal to: Returns True if x is less than or
 // also check if the variables on both sides are the same type, and will return false
 // if they are not, while returning true if they both are the same type and the operation succeeds
 x = 5;
-y = 5.0;
-console.log(x === y); // Returns false because x is an integer and y is a float
+y = "5";
+console.log(x === y); // Returns false because x is an integer and y is a string
 
 // When comparing strings, JavaScript compares the characters' ASCII values.
 // Essentially this means alphabetical order, with earlier letters being "smaller".
