@@ -1,4 +1,11 @@
-// PRACTICE: FUNCTIONS
+// ======================================================
+// JavaScript Practice: Functions & Logic Exercises
+// ======================================================
+//
+// Each problem below explains what your function should do.
+// Try writing the function where it says "your code here".
+// Test your function with the examples provided.
+// ======================================================
 
 // -------------------------------------
 // 1. Return the Next Number from the Integer Passed
