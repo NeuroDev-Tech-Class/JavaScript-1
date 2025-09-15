@@ -162,3 +162,19 @@ function isTriangle(a, b, c) {
 function equal(a, b, c) {
     // your code here
 }
+
+
+module.exports = {
+  lessThanOrEqualToZero,
+  divisible,
+  makesTen,
+  divisibleByFive,
+  dividesEvenly,
+  isEvenOrOdd,
+  word,
+  monthName,
+  helloWorld,
+  equalSlices,
+  isTriangle,
+  equal
+};
